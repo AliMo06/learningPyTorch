@@ -1,0 +1,1 @@
+Repo to mess around with PyTorch and learn it, might include some other library comparisons here and there (sk-learn/tf) maybe it can help some of you guys and I like to have it on the cloud so that I can use it between multiple devices.
